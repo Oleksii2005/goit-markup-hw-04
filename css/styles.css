@@ -193,14 +193,7 @@ body{
     gap: 24px;
     margin-bottom: 8px;
 }
-.main-border{
-    width: 264px;
-    height: 112px;
-    margin-bottom: 8px;
-    align-items: center;
-    display: flex;
-    justify-content: center;
-}
+
 .feature{
     width: 264px;
     height: 112px;
@@ -235,7 +228,7 @@ body{
     display: flex;
     justify-content: center;
     border-radius: 4px;
-    /* padding: 24px 100px 24px 100px; */
+
 }
 
 /* Second section */
