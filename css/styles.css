@@ -313,7 +313,8 @@ body{
     justify-content: center;
     background-color: var(--accent-bg-cl);
 }
-.society-links:hover{
+.society-links:hover,
+.society-links:focus{
     background-color: var(--primary-other-cl);
 }
 .border-box{
@@ -413,7 +414,8 @@ body{
     justify-content: center;
     background-color: rgba(255, 255, 255, 0.1);
 }
-.soc-links:hover{
+.soc-links:hover,
+.soc-links:focus{
     background-color: var(--green-blue);
 }
 .social-media-container{
